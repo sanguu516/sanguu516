@@ -23,6 +23,7 @@
 ## 연락처
 
 - **이메일**: [sanguu516@naver.com]
-- **링크드인**: [https://www.notion.so/STACK-2838ae9b186b4c788c7487f7f73c006e?pvs=4]
+- **노션**: [https://www.notion.so/STACK-2838ae9b186b4c788c7487f7f73c006e?pvs=4]
+
 
 감사합니다. 😊
