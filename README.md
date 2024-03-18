@@ -1,16 +1,26 @@
-### Hi there 👋
+# 안녕하세요, 저는 박상현 입니다.
 
-<!--
-**sanguu516/sanguu516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 프론트엔드 개발자로서, 사용자 경험을 중심으로 하는 웹 애플리케이션을 만드는 것을 즐깁니다. 반응형 웹 디자인, 웹 접근성, 그리고 성능 최적화에 대한 깊은 이해를 가지고 있습니다. 
 
-Here are some ideas to get you started:
+## 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML/CSS**: 웹 페이지의 구조와 디자인을 구현합니다.
+- **JavaScript**: 동적인 웹 애플리케이션을 만들기 위해 사용합니다.
+- **React**: 사용자 인터페이스를 구축하는 데 사용되는 라이브러리입니다.
+- **TypeScript**: 타입 안전성을 보장하면서 코드의 가독성과 유지 보수성을 높입니다.
+
+## 경험
+
+- **[프로젝트 이름]**: [프로젝트 설명]
+- **[프로젝트 이름]**: [프로젝트 설명]
+
+## 접근성과 성능
+
+저는 웹 접근성을 중요하게 생각하며, 사용자가 웹 사이트를 쉽게 이용할 수 있도록 돕습니다. 또한, 웹 성능을 최적화하여 사용자가 빠르고 부드러운 경험을 할 수 있도록 합니다.
+
+## 연락처
+
+- **이메일**: [이메일 주소]
+- **링크드인**: [링크드인 프로필 링크]
+
+감사합니다. 😊
