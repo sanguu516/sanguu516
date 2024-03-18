@@ -4,11 +4,13 @@
 
 ## 기술 스택
 
-- **HTML/CSS**: 웹 페이지의 구조와 디자인을 구현합니다.
-- **JavaScript**: 동적인 웹 애플리케이션을 만들기 위해 사용합니다.
-- **React**: 사용자 인터페이스를 구축하는 데 사용되는 라이브러리입니다.
-- **TypeScript**: 타입 안전성을 보장하면서 코드의 가독성과 유지 보수성을 높입니다.
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 'HTML')
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white 'CSS')
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black 'JavaScript')
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white 'Typescript')
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB 'React')
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white 'Next.js')
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white 'Bootstrap') ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB 'React Native')
 ## 경험
 
 - **[프로젝트 이름]**: [프로젝트 설명]
@@ -20,7 +22,7 @@
 
 ## 연락처
 
-- **이메일**: [이메일 주소]
+- **이메일**: [sanguu516@naver.com]
 - **링크드인**: [링크드인 프로필 링크]
 
 감사합니다. 😊
