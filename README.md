@@ -21,10 +21,13 @@
 
 저는 웹 접근성을 중요하게 생각하며, 사용자가 웹 사이트를 쉽게 이용할 수 있도록 돕습니다. 또한, 웹 성능을 최적화하여 사용자가 빠르고 부드러운 경험을 할 수 있도록 합니다.
 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  
 ## 연락처
 
-- **이메일**: [sanguu516@naver.com]
-- **노션**: [https://www.notion.so/STACK-2838ae9b186b4c788c7487f7f73c006e?pvs=4]
+- **이메일**: [![Email](https://img.shields.io/badge/Email-sanguu516@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanguu516@naver.com)
 
+- **Blog**: [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/STACK-2838ae9b186b4c788c7487f7f73c006e?pvs=4)
 
-감사합니다. 😊
+</div>
+
